@@ -3,4 +3,4 @@ layout: post
 title: "Ashley Zhang's resume"
 date: 2022-04-29 03:58:05 -0000
 ---
-... you can [get the PDF](/assets/Zhang.Xingyu_Resume.pdf) directly.
+... you can [get the PDF](/assets/Zhang.Xingyu_Resume_publish.pdf) directly.
