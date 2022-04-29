@@ -5,7 +5,7 @@ published: true
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](another-page).
+[Link to another page](https://github.com/ashleyzhang0000/resume/raw/main/Zhang.Xingyu_Resume.pdf).
 
 There should be whitespace between paragraphs.
 
