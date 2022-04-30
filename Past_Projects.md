@@ -19,6 +19,8 @@ You can read part of the output here .[SoFi: User Retention Rate](/assets/SoFi_P
 
 3: Predict Wine Qualities(Course Project)
 
-This is the last project in STSCI 5740: Data Mining and Machine Learning. 
+This is the last project in STSCI 5740: Data Mining and Machine Learning. The dataset is from UCI website and we utilized different statistical methods to predict wine quality.
+
+You can read the final output here. [Predict_Wine_Quality](/assets/annotated-5740_Project_Group_4.pdf)
 
 
