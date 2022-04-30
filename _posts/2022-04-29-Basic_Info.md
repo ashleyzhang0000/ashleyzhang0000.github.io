@@ -3,6 +3,9 @@ title: Basic Info for Xingyu Zhang
 published: true
 ---
 
-...you can get info here[PICTURE](/assets/self_portrait.pdf)
+Master Student
+[Department of Operations Research & Information Engineering](https://www.orie.cornell.edu/orie), Cornell University
+
+[PICTURE](/assets/self_portrait.pdf)
 
 
